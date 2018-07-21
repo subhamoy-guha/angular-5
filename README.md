@@ -1,6 +1,6 @@
-# AgrudTech
+# Angular 5
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project has base angular 5 project. Any one can download this project and start his own development.
 
 ## Development server
 
